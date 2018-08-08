@@ -83,4 +83,4 @@ client.on("guildDelete", guild => {
 
 
 
-client.login("NDcxNDQ2MDk0MTE5OTYwNTc3.Dkjn-g.sx0gCyIHBlVjQuJU2ReqLwtGcQs");
+client.login("NDc1NzEzMTg4MDY3ODAzMTQ2.Dkscww.gPX_vA_KQM3wRuNIk_8PR_slX0g");
